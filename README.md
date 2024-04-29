@@ -11,5 +11,6 @@ Whether you're a fellow cloud enthusiast, a potential collaborator, or a recruit
 Thank you for visiting, and I look forward to connecting with you!
 
 Best regards,
-Chijioke Ulasi
+
+Chijioke Ulasi.
 
