@@ -12,5 +12,5 @@ Thank you for visiting, and I look forward to connecting with you!
 
 Best regards,
 
-Chijioke Ulasi.
+_Chijioke Ulasi_.
 
