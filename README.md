@@ -1,6 +1,6 @@
 # Welcome to My AWS Learning Journey!
 
-Hello there! 👋
+Hello there!
 
 I'm thrilled to share with you my repository, which serves as a comprehensive chronicle of my hands-on experience with Amazon Web Services (AWS). This space is a testament to my growth and exploration in the cloud computing realm.
 
