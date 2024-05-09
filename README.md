@@ -1,4 +1,4 @@
-# Welcome to My AWS Learning Journey! 🚀
+# Welcome to My AWS Learning Journey!
 
 Hello there! 👋
 
